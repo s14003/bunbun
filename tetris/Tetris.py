@@ -11,7 +11,6 @@ class Tetris(QtGui.QMainWindow):
 
 
     def initUI(self):
-
         self.tboard = Board(self)
         self.setCentralWidget(self.tboard)
 
