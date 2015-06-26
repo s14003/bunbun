@@ -1,6 +1,6 @@
 # bunbun
 
-提出用のファイル:Tetris.py
+提出用のファイル:tetris
 
 使ったもの：
 PyQt4,QtCore,QtGui
