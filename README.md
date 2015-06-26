@@ -1,5 +1,6 @@
 # bunbun
-tetris Pycharm
+
+
 
 使ったもの：
 PyQt4,QtCore,QtGui
